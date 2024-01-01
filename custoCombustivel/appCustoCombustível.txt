@@ -1,0 +1,16 @@
+Criar um aplicativo para calcular o custo com combustível:
+
+Se você quer saber quanto gasta de combustível a cada quilômetro percorrido é simples!
+
+Divida o valor médio do litro de combustível pelo consumo médio do carro.
+
+Ex: Se o combustível custa em média R$5,70 e o consumo médio do carro é de 12km/litro, temos:
+
+5,70/12 = 0,475 é o valor gasto por km. 
+
+Ou seja, se você for viajar para um local a 300 km de distância você irá calcular: 0,475*300, ou seja,
+gastará em média R$142,50 com o combustível.
+
+
+
+
